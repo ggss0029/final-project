@@ -155,6 +155,8 @@ https://github.com/ggss0029/final-project/assets/129145703/faa3d227-62ba-449e-b9
 <img width="749" alt="임직원 조회" src="https://github.com/ggss0029/final-project/assets/129145703/9e4829fd-fdc3-41d2-9b52-ef18351c14ef">
 
 ##### <급여명세서 조회>
+<img width="1510" alt="스크린샷 2023-07-21 오전 3 05 35" src="https://github.com/ggss0029/final-project/assets/129145703/90e4296b-8d5b-404d-8ad2-d78a0bd90ec2">
+
 
 ### 일정 관리
 <img width="1495" alt="일정관리" src="https://github.com/ggss0029/final-project/assets/129145703/3b7c0f93-010a-4260-9a9e-4c0836ffccdd">
