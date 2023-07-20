@@ -107,10 +107,61 @@ CHA CHA Company는 차차 성장하자의 의미로 <br>
 </div>
 
 ## 구현 화면
-#### 로그인
 
-#### 메인페이지
 
-#### 마이페이지
 
-#### 게시판
+### 로그인
+<img width="1510" alt="로그인페이지" src="https://github.com/ggss0029/final-project/assets/129145703/90a5c7f9-76b7-449a-91d0-a17621ad750a">
+
+### 메인페이지
+##### <관리자 권한 메인페이지>
+<img width="1510" alt="관리자 메인페이지" src="https://github.com/ggss0029/final-project/assets/129145703/c771af12-36dc-4752-90a3-f08076fa712a">
+
+##### <회원 권한 메인페이지>
+<img width="1508" alt="멤버 메인페이지" src="https://github.com/ggss0029/final-project/assets/129145703/f7e752ec-5e77-4645-8a33-39ee2db50d48">
+
+##### <출퇴근 등록>
+<img width="1509" alt="메인 출근 등록" src="https://github.com/ggss0029/final-project/assets/129145703/703d9484-7f71-4e47-a119-846058cfc475">
+<img width="1509" alt="메인 퇴근등록" src="https://github.com/ggss0029/final-project/assets/129145703/c1f89ad5-4c5c-44f0-946a-d96df1a1cdf7">
+
+##### <To Do List>
+<img width="1512" alt="투두리스트" src="https://github.com/ggss0029/final-project/assets/129145703/84d0832b-ee82-4053-8036-1dfb219a61ef">
+
+##### <임직원 상세 조회 모달>
+<img width="1511" alt="멤버 프로필 " src="https://github.com/ggss0029/final-project/assets/129145703/92cd75a9-71b8-48b5-b03c-b3e02bbb1e01">
+
+##### <알림 목록>
+<img width="1510" alt="알림목록" src="https://github.com/ggss0029/final-project/assets/129145703/4fdd6a32-3dbb-4bea-9f1c-14749c7ad892">
+
+### 실시간 알림
+https://github.com/ggss0029/final-project/assets/129145703/faa3d227-62ba-449e-b9f4-a783410b52de
+
+### 근태 관리
+<img width="1497" alt="근태관리" src="https://github.com/ggss0029/final-project/assets/129145703/ccb63ba4-ee7b-4ea7-bed8-b41ea83e96c2">
+
+### 전자 결재
+##### <전자 결재홈>
+<img width="1500" alt="전자결재 홈" src="https://github.com/ggss0029/final-project/assets/129145703/1ef9de00-70d2-4e3d-8bcf-8fb81d44e4fb">
+
+##### <전자 결재 작성>
+<img width="1511" alt="전자결재 작성" src="https://github.com/ggss0029/final-project/assets/129145703/c1a4f2d1-750a-43df-9b23-45b2381444ec">
+<img width="1500" alt="전자결재 휴가계작성" src="https://github.com/ggss0029/final-project/assets/129145703/6e59f6a5-d41b-4090-bf8f-9dd8f5a062a9">
+
+##### <전자 결재함>
+<img width="1509" alt="전자결재함" src="https://github.com/ggss0029/final-project/assets/129145703/71a96a3d-f91b-4e18-b4d6-96edc74478c6">
+
+### 인사 관리
+##### <임직원 조회>
+<img width="749" alt="임직원 조회" src="https://github.com/ggss0029/final-project/assets/129145703/9e4829fd-fdc3-41d2-9b52-ef18351c14ef">
+
+##### <급여명세서 조회>
+
+### 일정 관리
+<img width="1495" alt="일정관리" src="https://github.com/ggss0029/final-project/assets/129145703/3b7c0f93-010a-4260-9a9e-4c0836ffccdd">
+
+### 커뮤니티
+<img width="1510" alt="커뮤니티" src="https://github.com/ggss0029/final-project/assets/129145703/32974211-f7da-4513-971f-18f85325840d">
+
+### 쪽지
+<img width="1083" alt="쪽지" src="https://github.com/ggss0029/final-project/assets/129145703/0f98fd10-e7cb-42bc-a6a5-bea8c3759232">
+
