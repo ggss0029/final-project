@@ -169,7 +169,7 @@ https://github.com/ggss0029/final-project/assets/129145703/faa3d227-62ba-449e-b9
 
 ## ERD
 
-https://www.erdcloud.com/d/38yDzbKKPfxMgYYmb
+![image](https://github.com/ggss0029/final-project/assets/129145703/d283dbfc-d81f-4b6a-9e03-7852feab77f3)
 
 ## Notion
 
