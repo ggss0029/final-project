@@ -167,3 +167,10 @@ https://github.com/ggss0029/final-project/assets/129145703/faa3d227-62ba-449e-b9
 ### 쪽지
 <img width="1083" alt="쪽지" src="https://github.com/ggss0029/final-project/assets/129145703/0f98fd10-e7cb-42bc-a6a5-bea8c3759232">
 
+## ERD
+
+https://www.erdcloud.com/d/38yDzbKKPfxMgYYmb
+
+## Notion
+
+https://www.notion.so/leedongs/988365efac704bdcb7f9e73e40e264ec?pvs=4
